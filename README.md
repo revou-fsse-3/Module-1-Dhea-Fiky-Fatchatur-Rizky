@@ -24,9 +24,7 @@ I'm a junior Software Engineer from Malang, Indonesia. Graduated from **D3 Telec
 ```mermaid
 flowchart LR
 
-A[Politeknik 
-Negeri Malang] -->|majoring| B[Electrical 
-Engineering]
+A[Politeknik Negeri Malang] -->|majoring| B[Electrical Engineering]
 B --> C{focus}
 C -->|2016| D[Telecommunication Engineering]
 C -->|2019| E[Digital Telecommunication Network]
