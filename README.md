@@ -20,6 +20,17 @@ I'm a junior Software Engineer from Malang, Indonesia. Graduated from **D3 Telec
 </div>
 
 ---
+# My Life Cycle
+
+- Life Cycle that will always repeat
+   ```mermaid
+     graph TD;
+         A-->B;
+         A-->C;
+         B-->D;
+         C-->D;
+   ```
+   ---
 # Educational Background
 ```mermaid
 flowchart LR
@@ -139,9 +150,23 @@ class Program
     Console.WriteLine("Hello World");
   }
 }
-
-
 ```
+  > Class diagram
+  I also learn class diagram when learning C#, because it use OOP (Object Oriented Programming) model
+   ```mermaid
+   classDiagram
+       class Car{
+        -weight
+        -Color
+        -model
+        -makeYear
+        -fuelType
+         +drive()
+         +park()
+         +stop()
+         +Accelerate()
+       }
+   ```
 * ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ```c++
 #include <iostream>
@@ -177,13 +202,19 @@ print(mean_x)
 
 # Other Tools
 ## I also learn for theese tools because it will help for the work
-* ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-* ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
+* ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+
+  >*Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.It offers a simple user interface for making HTML requests, without going through the hassle of writing a lot of code just to test the API functionality.*
 * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  >*Git is a distributed version control system that is widely used in software development. Which means it helps in tracking changes in files and directories over time. It allows multiple developers to collaborate on a project, keeping track of who made which changes, and when.*
 * ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  >*GitHub is a web-based platform that provides a variety of tools and services for software developers. It serves as a platform for version control using Git, as well as a hub for collaborative software development.8
 * ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+  >*GitLab is a web-based platform that provides a comprehensive set of tools for software development and project management. Similar to GitHub, GitLab is used for version control using Git, but it also offers a range of features beyond basic version control.*
 * ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  >*MySQL is an open-source relational database management system (RDBMS) that is widely used for storing, managing, and retrieving data. It is known for its speed, reliability, and ease of use. MySQL is a popular choice for web-based applications and is often used in conjunction with scripting languages like PHP.
 * ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  >*SQLite is a software library that provides a relational database management system (RDBMS) embedded into applications. Unlike traditional database management systems like MySQL or PostgreSQL, SQLite is not a standalone server, but rather, it is a self-contained, serverless, and zero-configuration library.
 
 
 
