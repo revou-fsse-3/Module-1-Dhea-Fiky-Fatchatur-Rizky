@@ -8,7 +8,7 @@
 
 ## <center>Hi, Everyone :wave:</center>
 ---
-## Welcome to My Short Profile
+## Welcome to My Short Profile 👩‍💻
 
 <p align="center">
   <img src="https://ca.slack-edge.com/T05SKMNUTNZ-U05UQG8AC04-a82dbf2db0d1-512" alt="My Picture Profile"/>
@@ -20,7 +20,7 @@ I'm a junior Software Engineer from Malang, Indonesia. Graduated from **D3 Telec
 </div>
 
 ---
-#Educational Background
+# Educational Background
 ```mermaid
 flowchart LR
 
@@ -33,7 +33,7 @@ C -->|2019| E[Digital Telecommunication Network]
 
 ```
 ---
-#Organisational Experience
+# Organisational Experience
 
 ```mermaid
 gantt
