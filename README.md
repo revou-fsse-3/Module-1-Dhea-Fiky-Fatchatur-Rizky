@@ -39,15 +39,28 @@ C -->|2019| E[Digital Telecommunication Network]
 gantt
 dateFormat  YYYY-MM-DD
 title Journey Of Organisation
-excludes weekdays 2014-01-10
+
 
 section Organisation
-Organisation Name            :done,   2013,2020
+Organisation Name         :active,   2013,2018
 Enharmonic Singers Choir  : jan, after des1, 2y
-Badan Eksekutif Mahasiswa : 2016-08-17, after des2, 1y
-Polinema Mengajar : aug, after des2, 1y
+Badan Eksekutif Mahasiswa : jan, after des2, 1y
+Polinema Mengajar : jan, after des2, 1y
 ```
-# Code
+---
+## Work Experience :zap: 👩‍🏫
+
+| Company       | Experience      | Tahun |
+| ------|-----|-----|
+|PT. Promanufacture |Internship at Software Engineering Divition, learn about F.L.O i8 product and how read the code base of the product using C#, learn signal R, learn Factory design pattern, learn ASP.NET WEB APP MVC |March - June 2023|
+| PT. HM. SAMPOERNA Sukorejo 	| Create and Monitoring PO (purchase order) PR (purchase request, and GR (good receipe) on SAP netweaver and Coupa)	| Jul 2021 - March 2023 	|
+| PT. Indonesia Comnet Plus (PLN ICON+) Balikpapan  	| Internship at Activation Divition:  Helping user monitoring every installation project carried out by partner companies,create Purchase ORder, Purchase Requisition and Good Receipe in SAP, Following discussion with partner companies for installation activities, Learning about product on ICON+ such like metronet, and business flow  	| March - April 2021	|
+| PT. POCA JARINGAN SOLUSI (Surabaya)	| Input data from network installation such as 4G, 4G LTE networks, sector antenna switches, or microwave antenna switches of Telkomsel provider that have been completed in the field at Huawei ISDP platform 	| Jun - July 2021	|
+| PT. POCA JARINGAN SOLUSI (Surabaya) 	| Internship at Installation BTS : BTS (base transceiver station) design and radio components with autocad, Help Installation of new and existing BTS on the field, Commisioning BTS until ON AIR, Following troubleshooting of network errors at the Jombang site sector 1, compiling Huawei ATP documents for indosat provider	| Aug - Sept 2019	|
+|PT. Ruang Raya Indonesia (RUANGGURU)|Work As Mathematic tutor and MAth Assosiate Teacher Freelance as SBMPTN intensive program mathematics teacher, Mathematic teacher package for PAKET C program, Math tutor for senior high school program, Selection question banks in the system database to be displayed in the application|2017 - present|
+---
+
+# Let's Talk About Code
 
 ## Vanilla
 
