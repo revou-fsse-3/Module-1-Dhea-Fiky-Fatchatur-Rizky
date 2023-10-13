@@ -7,7 +7,18 @@
 </header>
 
 ## <center>Hi, Everyone :wave:</center>
----
+*******
+Tables of contents  
+ 1. [My Short profile?](#shortProfile)
+ 2. [See my Livfe Cycle?](#lifeCycle)
+ 3. [See my educational background](#educationBackground)
+ 4. [See my organisational Experience](#organisation)
+ 5. [Work Experience](#workExperience)
+ 6. [Let's Talk About Code](#code)
+
+*******
+<div id='shortProfile'/>  
+
 ## Welcome to My Short Profile 👩‍💻
 
 <p align="center">
@@ -18,19 +29,23 @@
 <div class="text-justify">
 I'm a junior Software Engineer from Malang, Indonesia. Graduated from **D3 Telecommunication Engineering** in 2019 and continued to **D4 Digital Telecommunication Network** study program majoring in Electrical Engineering with the Cumlaude predicate in 2020. Awarded as outstanding student in 2019 majoring in telecommunications engineering. Have experience in various company such as telecommunication company and logistic. Have a good negotiation skills and analytic about data to report and give the best analysis. And Now, for getting more knowledge and insight from the competent and experienced people, I'm joined at <span style="color:orange;font-weight: 700">Revou Software Engineering Full Stack</span>.
 </div>
-
 ---
+
+<div id='lifeCycle'/>  
+
 # My Life Cycle
 
 - Life Cycle that will always repeat
    ```mermaid
      graph TD;
-         A-->B;
-         A-->C;
-         B-->D;
-         C-->D;
+         sleep --> eat;
+         sleep --> Code;
+         eat --> prayer;
+         Code --> prayer;
    ```
    ---
+
+   <div id='educationBackground'/> 
 # Educational Background
 ```mermaid
 flowchart LR
@@ -42,6 +57,8 @@ C -->|2019| E[Digital Telecommunication Network]
 
 ```
 ---
+   <div id='organisation'/> 
+
 # Organisational Experience
 
 ```mermaid
@@ -57,6 +74,8 @@ Badan Eksekutif Mahasiswa : jan, after des2, 1y
 Polinema Mengajar : jan, after des2, 1y
 ```
 ---
+  <div id='workExperience'/> 
+
 ## Work Experience :zap: 👩‍🏫
 
 | Company       | Experience      | Tahun |
@@ -68,6 +87,7 @@ Polinema Mengajar : jan, after des2, 1y
 | PT. POCA JARINGAN SOLUSI (Surabaya) 	| Internship at Installation BTS : BTS (base transceiver station) design and radio components with autocad, Help Installation of new and existing BTS on the field, Commisioning BTS until ON AIR, Following troubleshooting of network errors at the Jombang site sector 1, compiling Huawei ATP documents for indosat provider	| Aug - Sept 2019	|
 |PT. Ruang Raya Indonesia (RUANGGURU)|Work As Mathematic tutor and MAth Assosiate Teacher Freelance as SBMPTN intensive program mathematics teacher, Mathematic teacher package for PAKET C program, Math tutor for senior high school program, Selection question banks in the system database to be displayed in the application|2017 - present|
 ---
+  <div id='code'/> 
 
 # Let's Talk About Code
 ## I have learned several languages
@@ -191,13 +211,36 @@ print(mean_x)
 
 # Key of Ask and Reading 
 
-## This site rreally help my progress for going to be software engineer
-* ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+## This site really help my progress for going to be software engineer
+* ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
+```diff
++ Asking everything you want to ask related your issue for code
+
+```
 * ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+
+```diff
+ ! Got everything what you want for the course but it not interactive yet
+```
 *	![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white)
+```diff
+ Got everything what you want for the course but it not interactive yet
+```
 *	![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+```diff
++ Read How Tech is grow is awesome
+
+```
 * ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+```diff
++ Asistant in your hand? How awesome
+
+```
 * ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+```diff
++ Ask, browsing, Debug? we can do both in here
+
+```
 
 
 # Other Tools
@@ -217,29 +260,6 @@ print(mean_x)
   >*SQLite is a software library that provides a relational database management system (RDBMS) embedded into applications. Unlike traditional database management systems like MySQL or PostgreSQL, SQLite is not a standalone server, but rather, it is a self-contained, serverless, and zero-configuration library.
 
 
-
-
-
-```
-``python
-print("hello world!")
-``
-
-## Flavored V1
-
-<div style="background-color: rgb(50, 50, 50);">
-
-``python
-print("Yo!")
-``
-
-</div>
-```
-
-
-
-
-![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)
 
 
 
