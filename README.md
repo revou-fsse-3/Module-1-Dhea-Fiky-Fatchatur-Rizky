@@ -214,6 +214,33 @@ class Program
          +Accelerate()
        }
    ```
+
+```mermaid
+classDiagram
+IEatBehavior <|--CarnivoraEat : inherit
+IEatBehavior <|--HerbivoraEat : inherit
+<<Interface>> IEatBehavior
+Animal <-- Cat : I'm a?
+Animal <-- Dog : I'm a?
+
+IEatBehavior : eat()
+IEatBehavior : bool hungry
+class Animal{
+  int totalFoot
+  int totalEye
+  eat()
+  sleep()
+}
+class Class10 {
+  <<service>>
+  int id
+  size()
+}
+
+```
+
+
+
 * ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ```c++
 #include <iostream>
